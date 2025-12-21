@@ -57,7 +57,6 @@ configuration with **Distributed Electric Propulsion (DEP)**.
 ## Repository Contents
 - **End-Term Report:** Detailed analytical modelling and CFD validation  
 - **Mid-Term Report:** Concept development and preliminary sizing  
-- **Presentation Slides:** Summary of design approach and key findings  
 
 ---
 

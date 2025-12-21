@@ -67,8 +67,3 @@ Raw CFD case files and solver data are intentionally excluded due to size and
 licensing constraints.
 
 ---
-
-## Author
-Mohan Ulasa  
-B.Tech–M.Tech Mechanical Engineering  
-IIT Gandhinagar

@@ -2,7 +2,7 @@
 
 This project presents the aerodynamic design and analysis of a powered-lift wing
 developed under the **LAT Aerospace High-Preparation Problem Statement** for the
-**Inter IIT Tech Meet 14.0**.
+**Inter IIT Tech Meet 14.0 representing IIT Gandhinagar**.
 
 The objective was to achieve **Short Take-Off and Landing (STOL)** capability at
 low freestream velocities by integrating an **Externally Blown Flap (EBF)**

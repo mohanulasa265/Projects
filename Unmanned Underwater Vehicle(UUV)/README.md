@@ -50,4 +50,4 @@ Through this project we learned:
 
 ## Acknowledgements
 
-We sincerely thank Prof. Vinod Narayanan and Prof. Atul Bhargav for their guidance and support throughout the project.
+We sincerely thank Prof. Vinod Narayanan, Prof. Atul Bhargav and the Mechanical lab staff for their guidance and support throughout the project.

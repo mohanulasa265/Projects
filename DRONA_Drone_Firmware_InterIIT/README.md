@@ -68,26 +68,25 @@ This staged approach minimizes risk and allows deterministic debugging.
 
 ---
 
-## Repository Structure
+Repository Structure
 
 .
-├── src/
-│ └── main/
-│ └── API/ # Pluto platform APIs
+├── src
+│ └── main
+│ └── API
 │ ├── FC-Control # Control logic
 │ ├── FC-Data # Sensor and state data
 │ ├── Motor # Motor control interface
 │ ├── RC-Interface # Receiver input handling
 │ └── Scheduler-Timer # Loop timing and scheduling
 │
-├── docs/
-│ └── testing/ # Safety and testing methodology
+├── docs
+│ └── testing # Safety and testing methodology
 │
 ├── PlutoPilot.cpp # User control loop
 ├── PlutoPilot.h # Core firmware interface
 ├── Makefile
 └── README.md
-
 
 ---
 
